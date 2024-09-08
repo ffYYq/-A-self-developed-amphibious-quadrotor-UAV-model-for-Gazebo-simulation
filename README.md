@@ -9,4 +9,4 @@ To test various algorithms and flight performance, we have created a Gazebo simu
 ffYYq/ffYYq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/ffYYq/-A-self-developed-amphibious-quadrotor-UAV-model-for-Gazebo-simulation/blob/main/image.png))
+![image](https://github.com/ffYYq/-A-self-developed-amphibious-quadrotor-UAV-model-for-Gazebo-simulation/blob/main/image.png)
